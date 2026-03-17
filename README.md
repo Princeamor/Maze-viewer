@@ -1,7 +1,7 @@
 # Maze-viewer
 Fork of Firestorm viewer with improvements for Opensim
 # Required Software for Building Aperture Viewer on Windows 11
-
+YOU  MUST DOWNLOAD THIS LIBRARY YOURSELF: https://www.fmod.com/licensing do t licencing!!!
 - **Host and hardware**: Windows 11 64-bit on an AVX-capable CPU (per release build note in Aperture Viewer README).
 - **Version control**: Git (64-bit). Needed to clone Aperture-Viewer and the aperture-build-variables repo.
 - **Python**: Python 3.10+ (64-bit) with pip. Install the build helpers from [Aperture-Viewer/requirements.txt](Aperture/Aperture-Viewer/requirements.txt):
